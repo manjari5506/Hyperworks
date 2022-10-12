@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+.home{
+  background-color: #cfeef7;
+  padding: 2rem;
+}
+.profile{
+  margin: auto;
+  width: 70%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 3rem;
+  color: rgb(2, 2, 63);
+}
